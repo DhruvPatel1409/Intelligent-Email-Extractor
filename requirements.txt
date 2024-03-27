@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+email
+imaplib
+yaml
+nltk
